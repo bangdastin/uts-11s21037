@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+    <string name="profile_icon_description">Profile Icon</string>
+    <string name="info_dino_icon">Ikon Dino</string>
+    <string name="info_dino_name">Nama Famili</string>
+    <string name="info_dino_desc">Deskripsi</string>
+    <string name="info_dino_characteristic">periode hidup</string>
+    <string name="info_dino_habitat">karakteritik fisik</string>
+    <string name="info_dino_process">habitat dan lingkungan</string>
+    <string name="info_dino_perilaku">perilaku</string>
+    <string name="info_dino_klasifikasi">klasifikasi</string>
+    <string-array name="dino_name">
+        <item>Tyrannosauridae</item>
+        <item>Stegosauridae</item>
+        <item>Triceratopsidae</item>
+        <item>Sauropodae</item>
+        <item>Hadrosauridae</item>
+        <item>Ceratopsidae</item>
+        <item>Velociraptoridae</item>
+        <item>Ankylosauridae</item>
+    </string-array>
+
+    <string-array name="dino_icon">
+        <item>@drawable/famili1</item>
+        <item>@drawable/famili2</item>
+        <item>@drawable/famili3</item>
+        <item>@drawable/famili4</item>
+        <item>@drawable/famili5</item>
+        <item>@drawable/famili6</item>
+        <item>@drawable/famili7</item>
+        <item>@drawable/famili8</item>
+    </string-array>
+    <string-array name="dino_description">
+        <item>Tyrannosauridae adalah famili dinosaurus Theropoda yang terkenal karena anggotanya yang besar dan ganas, termasuk yang paling terkenal, Tyrannosaurus rex.</item>
+        <item> Stegosauridae adalah dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+
+    </string-array>
+    <string-array name="dino_characteristic">
+        <item>Tyrannosauridae umumnya memiliki kepala besar dengan rahang yang kuat, gigi-gigi yang besar dan tajam, serta lengan pendek yang memiliki cakar yang kuat. Tubuh mereka juga cukup besar dan memiliki kaki yang kuat untuk menopang berat badan mereka yang besar.</item>
+        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
+        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
+        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
+        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
+        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
+        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
+        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
+    </string-array>
+    <string-array name="dino_habitat">
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Stegosauridae diperkirakan hidup di daerah dataran rendah dan hutan yang lembap pada masa itu. Mereka tersebar di berbagai wilayah, termasuk Amerika Utara, Eropa, dan Asia.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+    </string-array>
+    <string-array name="dino_proces">
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item>Stegosauridae hidup pada periode Jura Akhir, sekitar 155 hingga 150 juta tahun yang lalu.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+
+    </string-array>
+
+    <string-array name="dino_perilaku">
+        <item>Diketahui bahwa Tyrannosauridae adalah pemangsa puncak dalam ekosistem mereka. Mereka memiliki perilaku pemangsa yang agresif dan mungkin memburu dalam kelompok kecil. Tyrannosaurus rex, contohnya, sering dianggap sebagai pemangsa soliter yang kuat, tetapi beberapa penelitian juga menunjukkan kemungkinan perilaku sosial dalam beberapa konteks.</item>
+    </string-array>
+
+    <string-array name="dino_klasifikasi">
+        <item>Klasifikasi Tyrannosauridae tergantung pada analisis anatomi dan morfologi dari spesimen fosil yang ditemukan. Mereka termasuk dalam ordo Theropoda dan biasanya dikelompokkan berdasarkan ciri-ciri khusus tengkorak dan gigi-giginya.</item>
+    </string-array>
+</resources>
