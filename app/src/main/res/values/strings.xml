@@ -9,6 +9,9 @@
     <string name="info_dino_process">habitat dan lingkungan</string>
     <string name="info_dino_perilaku">perilaku</string>
     <string name="info_dino_klasifikasi">klasifikasi</string>
+    <string name="dino">Gambar Dino</string>
+
+
     <string-array name="dino_name">
         <item>Tyrannosauridae</item>
         <item>Stegosauridae</item>
@@ -20,65 +23,259 @@
         <item>Ankylosauridae</item>
     </string-array>
 
+
     <string-array name="dino_icon">
-        <item>@drawable/famili1</item>
-        <item>@drawable/famili2</item>
-        <item>@drawable/famili3</item>
-        <item>@drawable/famili4</item>
-        <item>@drawable/famili5</item>
-        <item>@drawable/famili6</item>
-        <item>@drawable/famili7</item>
-        <item>@drawable/famili8</item>
+        <item>@drawable/dino2</item>
+        <item>@drawable/dino2</item>
+        <item>@drawable/dino2</item>
+        <item>@drawable/dino2</item>
+        <item>@drawable/dino2</item>
+        <item>@drawable/dino2</item>
+        <item>@drawable/dino2</item>
+        <item>@drawable/dino2</item>
     </string-array>
     <string-array name="dino_description">
         <item>Tyrannosauridae adalah famili dinosaurus Theropoda yang terkenal karena anggotanya yang besar dan ganas, termasuk yang paling terkenal, Tyrannosaurus rex.</item>
         <item> Stegosauridae adalah dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+        <item> Triceratopsidae adalah famili dinosaurus herbivora yang terkenal dengan ciri khas tanduk besar dan bercabang di kepala mereka. Triceratops, spesies yang paling terkenal dari famili ini, memiliki tubuh besar dengan tiga tanduk di bagian atas kepala dan lempengan tulang besar di bagian belakang.</item>
         <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
-        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
-        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
-        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
-        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
-        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
-        <item> dinosaurus herbivora berukuran sedang hingga besar, dengan panjang tubuh mencapai sekitar 9 meter. Mereka memiliki badan yang besar, kaki yang pendek namun kuat, dan leher yang relatif pendek. Ciri khasnya adalah deretan lempeng tulang yang menjulang tinggi di sepanjang punggung, serta ekor yang bercabang.</item>
+        <item> Hadrosauridae, atau sering disebut sebagai "dinosaurus bebek", adalah famili dinosaurus herbivora dengan ciri khas rahang yang mirip paruh bebek dan seringkali memiliki kresta di kepala.</item>
+        <item> Ceratopsidae adalah famili dinosaurus herbivora yang memiliki ciri khas tanduk dan lempeng tulang di kepala mereka. Dinosaurus dalam famili ini termasuk Triceratops dan lainnya.</item>
+        <item>  Velociraptoridae adalah famili dinosaurus karnivora yang terkenal dengan kecepatan dan kecerdasannya. Salah satu contoh terkenal adalah Velociraptor.</item>
+        <item> Ankylosauridae adalah famili dinosaurus herbivora yang memiliki tubuh dilindungi oleh tulang keras atau lempengan tulang. Mereka sering memiliki gada tulang di ujung ekor untuk pertahanan.</item>
 
     </string-array>
     <string-array name="dino_characteristic">
         <item>Tyrannosauridae umumnya memiliki kepala besar dengan rahang yang kuat, gigi-gigi yang besar dan tajam, serta lengan pendek yang memiliki cakar yang kuat. Tubuh mereka juga cukup besar dan memiliki kaki yang kuat untuk menopang berat badan mereka yang besar.</item>
         <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
-        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
-        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
-        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
-        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
-        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
-        <item>Karakteristik fisik utama dari Stegosauridae adalah deretan lempeng tulang di punggung mereka, yang berfungsi sebagai perlindungan serta dapat berperan dalam regulasi suhu tubuh. Mereka juga memiliki ekor yang bercabang dengan sepasang tulang duri besar di ujungnya, yang kemungkinan digunakan untuk pertahanan diri.</item>
+        <item>Tanduk dan lempengan tulang yang besar di kepala, tubuh besar, herbivora.</item>
+        <item> Leher panjang, tubuh besar, ekor pendek, herbivora.</item>
+        <item> Rahang mirip paruh bebek, kresta di kepala, herbivora.</item>
+        <item>Tanduk dan lempeng tulang di kepala, tubuh besar, herbivora.</item>
+        <item>Cepat, lincah, karnivora, memiliki cakar yang kuat.</item>
+        <item>Tubuh dilindungi oleh tulang keras, gada tulang di ekor, herbivora.</item>
     </string-array>
     <string-array name="dino_habitat">
         <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
         <item> Stegosauridae diperkirakan hidup di daerah dataran rendah dan hutan yang lembap pada masa itu. Mereka tersebar di berbagai wilayah, termasuk Amerika Utara, Eropa, dan Asia.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item>  Umumnya hidup di daerah dataran rendah yang luas dengan vegetasi yang melimpah seperti padang rumput.</item>
+        <item> Sauropoda banyak ditemukan di berbagai habitat, mulai dari hutan hujan hingga dataran luas, tetapi kebanyakan ditemukan di daerah yang subur dengan banyak tumbuhan.</item>
+        <item> Umumnya hidup di daerah berawa atau wilayah dataran rendah dengan vegetasi yang melimpah.</item>
+        <item> Umumnya hidup di daerah dataran rendah dengan vegetasi yang melimpah.</item>
+        <item>  Umumnya hidup di berbagai habitat, dari hutan hujan hingga padang rumput.</item>
+        <item> Umumnya hidup di daerah dataran rendah dengan vegetasi yang melimpah.</item>
     </string-array>
     <string-array name="dino_proces">
         <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
         <item>Stegosauridae hidup pada periode Jura Akhir, sekitar 155 hingga 150 juta tahun yang lalu.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
-        <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
+        <item> Seperti halnya Triceratopsidae, masa hidup mereka juga tidak diketahui dengan pasti, tetapi diperkirakan mereka hidup cukup lama.</item>
+        <item> Tidak pasti, tetapi diperkirakan hidup cukup lama, mungkin beberapa dekade.</item>
+        <item> Tidak pasti, tetapi diperkirakan memiliki masa hidup yang cukup panjang.</item>
+        <item>  Tidak pasti, tetapi diperkirakan memiliki masa hidup yang cukup singkat, mungkin beberapa dekade.</item>
+        <item> Tidak pasti, tetapi diperkirakan hidup cukup lama, mungkin beberapa dekade.</item>
         <item> Anggota famili ini ditemukan di berbagai habitat, mulai dari dataran rendah hingga dataran tinggi. Mereka hidup di lingkungan yang umumnya hangat dan beragam, termasuk hutan dan padang rumput.</item>
 
     </string-array>
 
     <string-array name="dino_perilaku">
         <item>Diketahui bahwa Tyrannosauridae adalah pemangsa puncak dalam ekosistem mereka. Mereka memiliki perilaku pemangsa yang agresif dan mungkin memburu dalam kelompok kecil. Tyrannosaurus rex, contohnya, sering dianggap sebagai pemangsa soliter yang kuat, tetapi beberapa penelitian juga menunjukkan kemungkinan perilaku sosial dalam beberapa konteks.</item>
+        <item>Diketahui bahwa Tyrannosauridae adalah pemangsa puncak dalam ekosistem mereka. Mereka memiliki perilaku pemangsa yang agresif dan mungkin memburu dalam kelompok kecil. Tyrannosaurus rex, contohnya, sering dianggap sebagai pemangsa soliter yang kuat, tetapi beberapa penelitian juga menunjukkan kemungkinan perilaku sosial dalam beberapa konteks.</item>
+        <item>Diketahui bahwa Tyrannosauridae adalah pemangsa puncak dalam ekosistem mereka. Mereka memiliki perilaku pemangsa yang agresif dan mungkin memburu dalam kelompok kecil. Tyrannosaurus rex, contohnya, sering dianggap sebagai pemangsa soliter yang kuat, tetapi beberapa penelitian juga menunjukkan kemungkinan perilaku sosial dalam beberapa konteks.</item>
+        <item>Diketahui bahwa Tyrannosauridae adalah pemangsa puncak dalam ekosistem mereka. Mereka memiliki perilaku pemangsa yang agresif dan mungkin memburu dalam kelompok kecil. Tyrannosaurus rex, contohnya, sering dianggap sebagai pemangsa soliter yang kuat, tetapi beberapa penelitian juga menunjukkan kemungkinan perilaku sosial dalam beberapa konteks.</item>
+        <item>Diketahui bahwa Tyrannosauridae adalah pemangsa puncak dalam ekosistem mereka. Mereka memiliki perilaku pemangsa yang agresif dan mungkin memburu dalam kelompok kecil. Tyrannosaurus rex, contohnya, sering dianggap sebagai pemangsa soliter yang kuat, tetapi beberapa penelitian juga menunjukkan kemungkinan perilaku sosial dalam beberapa konteks.</item>
+        <item>Diketahui bahwa Tyrannosauridae adalah pemangsa puncak dalam ekosistem mereka. Mereka memiliki perilaku pemangsa yang agresif dan mungkin memburu dalam kelompok kecil. Tyrannosaurus rex, contohnya, sering dianggap sebagai pemangsa soliter yang kuat, tetapi beberapa penelitian juga menunjukkan kemungkinan perilaku sosial dalam beberapa konteks.</item>
+        <item>Diketahui bahwa Tyrannosauridae adalah pemangsa puncak dalam ekosistem mereka. Mereka memiliki perilaku pemangsa yang agresif dan mungkin memburu dalam kelompok kecil. Tyrannosaurus rex, contohnya, sering dianggap sebagai pemangsa soliter yang kuat, tetapi beberapa penelitian juga menunjukkan kemungkinan perilaku sosial dalam beberapa konteks.</item>
+        <item>Diketahui bahwa Tyrannosauridae adalah pemangsa puncak dalam ekosistem mereka. Mereka memiliki perilaku pemangsa yang agresif dan mungkin memburu dalam kelompok kecil. Tyrannosaurus rex, contohnya, sering dianggap sebagai pemangsa soliter yang kuat, tetapi beberapa penelitian juga menunjukkan kemungkinan perilaku sosial dalam beberapa konteks.</item>
+
     </string-array>
 
     <string-array name="dino_klasifikasi">
         <item>Klasifikasi Tyrannosauridae tergantung pada analisis anatomi dan morfologi dari spesimen fosil yang ditemukan. Mereka termasuk dalam ordo Theropoda dan biasanya dikelompokkan berdasarkan ciri-ciri khusus tengkorak dan gigi-giginya.</item>
+        <item>Klasifikasi Tyrannosauridae tergantung pada analisis anatomi dan morfologi dari spesimen fosil yang ditemukan. Mereka termasuk dalam ordo Theropoda dan biasanya dikelompokkan berdasarkan ciri-ciri khusus tengkorak dan gigi-giginya.</item>
+        <item>Klasifikasi Tyrannosauridae tergantung pada analisis anatomi dan morfologi dari spesimen fosil yang ditemukan. Mereka termasuk dalam ordo Theropoda dan biasanya dikelompokkan berdasarkan ciri-ciri khusus tengkorak dan gigi-giginya.</item>
+        <item>Klasifikasi Tyrannosauridae tergantung pada analisis anatomi dan morfologi dari spesimen fosil yang ditemukan. Mereka termasuk dalam ordo Theropoda dan biasanya dikelompokkan berdasarkan ciri-ciri khusus tengkorak dan gigi-giginya.</item>
+        <item>Klasifikasi Tyrannosauridae tergantung pada analisis anatomi dan morfologi dari spesimen fosil yang ditemukan. Mereka termasuk dalam ordo Theropoda dan biasanya dikelompokkan berdasarkan ciri-ciri khusus tengkorak dan gigi-giginya.</item>
+        <item>Klasifikasi Tyrannosauridae tergantung pada analisis anatomi dan morfologi dari spesimen fosil yang ditemukan. Mereka termasuk dalam ordo Theropoda dan biasanya dikelompokkan berdasarkan ciri-ciri khusus tengkorak dan gigi-giginya.</item>
+        <item>Klasifikasi Tyrannosauridae tergantung pada analisis anatomi dan morfologi dari spesimen fosil yang ditemukan. Mereka termasuk dalam ordo Theropoda dan biasanya dikelompokkan berdasarkan ciri-ciri khusus tengkorak dan gigi-giginya.</item>
+        <item>Klasifikasi Tyrannosauridae tergantung pada analisis anatomi dan morfologi dari spesimen fosil yang ditemukan. Mereka termasuk dalam ordo Theropoda dan biasanya dikelompokkan berdasarkan ciri-ciri khusus tengkorak dan gigi-giginya.</item>
+    </string-array>
+    <string name="dino_dinoss">Gambar Dino2</string>
+
+
+
+
+    <string name="dinoss">Tyrex</string>
+    <string name="info_dino_Nama">Nama Dino</string>
+    <string name="info_dino_desc2">Deskripsi Dino</string>
+    <string name="info_dino_karakteristik2">Karakteristik</string>
+    <string name="info_dino_kelompok">Kelompok</string>
+    <string name="info_dino_habitatt">habitat</string>
+    <string name="info_dino_makanan">makanan</string>
+    <string name="info_dino_panjang">panjang</string>
+    <string name="info_dino_tinggi">tinggi</string>
+    <string name="info_dino_bobot">bobot</string>
+    <string name="info_dino_kelemahan">kelemahan</string>
+
+
+    <string-array name="dino_dinoss">
+        <item>@drawable/dinosaurus2</item>
+        <item>@drawable/dinosaurus3</item>
+        <item>@drawable/dinosaurus4</item>
+        <item>@drawable/dinosaurus5</item>
+        <item>@drawable/dinosaurus6</item>
+        <item>@drawable/dinosaurus7</item>
+        <item>@drawable/dinosaurus8</item>
+        <item>@drawable/dinosaurus9</item>
+
+    </string-array>
+
+
+    <string-array name="dino_nama">
+        <item>Tyrex(Tyrannosauridae)</item>
+        <item>Stegosaurus(Stegosauridae)</item>
+        <item>Triceratops(Triceratopsida)</item>
+        <item>Brachiosaurus(Sauropodae)</item>
+        <item>parasaurolophus(Hadrosauridae)</item>
+        <item>Triceratops(Ceratopsidae)</item>
+        <item>Velociraptor(Velociraptoridae)</item>
+        <item>Ankylosaurus(Ankylosauridae)</item>
+
+
+    </string-array>
+
+
+
+
+
+    <string-array name="dino_description2">
+        <item>Tyrannosaurus rex hidup sekitar 68 hingga 66 juta tahun yang lalu, pada periode Kapur Akhir, di wilayah yang sekarang menjadi Amerika Utara. Fosil-fosil Tyrannosaurus rex pertama kali ditemukan di Montana pada tahun 1902 oleh seorang paleontolog bernama Barnum Brown.
+        Tyrex adalah nama yang sering digunakan untuk merujuk pada hewan prasejarah, Tyrannosaurus rex, yang merupakan salah satu dinosaurus karnivora terbesar yang pernah hidup. Nama ilmiahnya, Tyrannosaurus rex, secara harfiah berarti "raja kadal tirani", dan dinosaurus ini dikenal karena ukurannya yang besar, gigi-giginya yang tajam, dan cakar-cakarnya yang kuat.</item>
+    <item>Stegosaurus adalah salah satu dinosaurus herbivora yang hidup pada periode Jura Akhir, sekitar 155 hingga 150 juta tahun yang lalu. Dinosaurs ini dikenal karena memiliki ciri khas berupa deretan plat tulang keras di punggungnya dan sepasang duri besar di ekor.</item>
+        <item>Triceratops adalah dinosaurus herbivora yang hidup pada periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu. Dinosaurs ini dikenal karena memiliki ciri khas berupa tiga tanduk besar di bagian tengkoraknya dan satu lempeng besar di bagian belakang tengkoraknya.</item>
+        <item>Brachiosaurus adalah salah satu dinosaurus sauropoda yang hidup pada periode Jura Awal, sekitar 154 hingga 153 juta tahun yang lalu. Dinosaurs ini dikenal karena memiliki leher panjang yang memungkinkannya untuk mencapai daun-daun tinggi di pohon.</item>
+        <item>Parasaurolophus adalah dinosaurus herbivora yang hidup pada periode Kapur Akhir, sekitar 76 hingga 73 juta tahun yang lalu. Dinosaurs ini dikenal karena memiliki crests (semacam kres atau tanduk) yang panjang di bagian tengkoraknya.</item>
+        <item>Triceratops adalah dinosaurus herbivora yang hidup pada periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu. Dinosaurs ini dikenal karena memiliki ciri khas berupa tiga tanduk besar di bagian tengkoraknya dan satu lempeng besar di bagian belakang tengkoraknya.</item>
+        <item>Velociraptor adalah dinosaurus karnivora yang hidup pada periode Kapur Awal, sekitar 75 hingga 71 juta tahun yang lalu. Dinosaurs ini dikenal karena ukurannya yang kecil dan kemampuannya yang gesit, serta cakarnya yang tajam.</item>
+        <item>Ankylosaurus adalah dinosaurus herbivora yang hidup pada periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu. Dinosaurus ini dikenal karena memiliki tubuh yang dilindungi oleh pelat-pelat tulang dan senjata defensif di ekornya.</item>
+    </string-array>
+
+    <string-array name="dino_karakteristik">
+        <item>Kepala besar dengan gigi-gigi besar dan tajam.
+        Lengan pendek yang tidak proporsional dengan tubuhnya yang besar.
+        Tubuh besar dan berat dengan kaki belakang yang kuat.
+            Dikenal karena kegigihannya dalam berburu dan mungkin sebagai pemangsa puncak di ekosistemnya.</item>
+        <item>Stegosaurus memiliki tubuh yang besar dengan empat kaki kokoh.
+Ciri paling mencolok adalah deretan besar plaet tulang keras yang disebut sebagai "thagomizer" di bagian punggungnya.
+Ekor Stegosaurus dilengkapi dengan sepasang duri besar yang mungkin digunakan sebagai alat pertahanan terhadap pemangsa.
+Meskipun memiliki ukuran tubuh yang besar, otak Stegosaurus relatif kecil, menunjukkan bahwa dinosaurus ini mungkin memiliki perilaku yang kurang kompleks dibandingkan dengan beberapa dinosaurus lainnya.</item>
+        <item>Triceratops memiliki tubuh yang besar dengan empat kaki kokoh.
+Ciri paling mencolok adalah tanduk-tanduk besar yang menonjol dari tengkoraknya. Tanduk-tanduk ini biasanya terletak di atas mata dan satu di hidungnya.
+Selain itu, Triceratops juga memiliki lempeng besar di bagian belakang tengkoraknya, yang disebut sebagai "lempeng tengkorak".
+Tengkorak Triceratops memiliki bentuk yang unik, dengan rahang bawah yang sangat lebar dan bertulang belakang panjang.</item>
+        <item>Brachiosaurus memiliki tubuh yang besar dengan empat kaki yang panjang dan kuat.
+Ciri paling mencolok adalah lehernya yang sangat panjang, yang memungkinkannya untuk mencapai daun-daun tinggi di pohon.
+Selain itu, Brachiosaurus memiliki kepala yang kecil dengan gigi-gigi yang kecil dan lempeng-lempong yang melindungi tubuhnya.</item>
+        <item>Parasaurolophus memiliki tubuh yang besar dengan empat kaki yang kokoh.
+Ciri paling mencolok adalah crests yang panjang dan melengkung di bagian tengkoraknya, yang mungkin digunakan untuk komunikasi atau mungkin sebagai resonator suara.
+Selain itu, Parasaurolophus memiliki rahang yang panjang dengan banyak gigi yang cocok untuk mengunyah tumbuhan.
+Mereka juga memiliki ekor yang panjang, mungkin digunakan untuk keseimbangan atau mungkin sebagai alat pertahanan.</item>
+        <item>Triceratops memiliki tubuh yang besar dengan empat kaki kokoh.
+Ciri paling mencolok adalah tanduk-tanduk besar yang menonjol dari tengkoraknya. Tanduk-tanduk ini biasanya terletak di atas mata dan satu di hidungnya.
+Selain itu, Triceratops juga memiliki lempeng besar di bagian belakang tengkoraknya, yang disebut sebagai "lempeng tengkorak".
+Tengkorak Triceratops memiliki bentuk yang unik, dengan rahang bawah yang sangat lebar dan bertulang belakang panjang.</item>
+        <item>Velociraptor memiliki tubuh yang kecil dan ringan, dengan kaki yang panjang yang memungkinkannya untuk bergerak dengan cepat.
+Ciri paling mencolok adalah cakar-cakar tajam di kedua kaki depannya, yang digunakan untuk menangkap dan membunuh mangsa.
+Velociraptor memiliki moncong yang panjang dengan gigi-gigi tajam yang cocok untuk merobek daging mangsa.</item>
+        <item>Ankylosaurus memiliki tubuh yang besar dan rendah dengan empat kaki kokoh.
+Ciri paling mencolok adalah pelat-pelat tulang yang menutupi tubuhnya, memberikan perlindungan tambahan terhadap predator.
+Ekornya dilengkapi dengan senjata defensif berupa tonjolan-tonjolan tulang yang keras, yang dapat digunakan untuk melindungi diri dari serangan predator.
+Ankylosaurus juga memiliki tengkorak yang rendah dengan rahang yang kuat dan gigi-gigi yang cocok untuk mengunyah tanaman.</item>
+
+    </string-array>
+    
+    <string-array name="dino_kelompok">
+        <item>Tyrannosaurus rex termasuk dalam kelompok dinosaurus theropoda, yang merupakan dinosaurus karnivora berjalan dua kaki.</item>
+        <item>Stegosaurus termasuk dalam kelompok dinosaurus yang disebut sebagai Thyreophora. Thyreophora adalah kelompok dinosaurus herbivora yang memiliki ciri khas pelindung seperti perisai atau duri. Dinosaurus dalam kelompok ini sering kali memiliki struktur tulang yang mengeras atau berduri yang membantu melindungi mereka dari serangan predator. Kelompok ini dibagi menjadi dua famili, yaitu Stegosauridae dan Ankylosauridae. Stegosaurus adalah salah satu representasi terkenal dari keluarga Stegosauridae dalam kelompok Thyreophora.</item>
+        <item>Triceratops berKelompok Ceratopsidae, Triceratops adalah dinosaurus herbivora yang hidup pada periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu. Dinosaurs ini dikenal karena memiliki tiga tanduk besar di bagian tengkoraknya dan satu lempeng besar di bagian belakang tengkoraknya. Mereka memiliki tubuh besar dengan empat kaki kokoh.</item>
+        <item>Brachiosaurus berKelompok, Sauropoda Brachiosaurus adalah dinosaurus herbivora yang hidup pada periode Jura Awal, sekitar 154 hingga 153 juta tahun yang lalu. Dinosaurs ini dikenal karena memiliki leher panjang yang memungkinkannya untuk mencapai daun-daun tinggi di pohon. Mereka memiliki tubuh besar dengan empat kaki yang kokoh.</item>
+        <item>Parasaurolophus berkelompok Hadrosauridae, Parasaurolophus adalah dinosaurus herbivora yang hidup pada periode Kapur Akhir, sekitar 76 hingga 73 juta tahun yang lalu. Dinosaurs ini dikenal karena memiliki crests (semacam kres atau tanduk) yang panjang di bagian tengkoraknya. Mereka memiliki tubuh besar dengan empat kaki yang kokoh.</item>
+        <item>Triceratops berkelompok Ceratopsidae, Triceratops adalah dinosaurus herbivora yang hidup pada periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu. Dinosaurs ini dikenal karena memiliki tiga tanduk besar di bagian tengkoraknya dan satu lempeng besar di bagian belakang tengkoraknya. Mereka memiliki tubuh besar dengan empat kaki kokoh.</item>
+        <item>Velociraptor berkelompok Dromaeosauridae, Velociraptor adalah dinosaurus karnivora yang hidup pada periode Kapur Awal, sekitar 75 hingga 71 juta tahun yang lalu. Dinosaurus ini dikenal karena ukurannya yang kecil dan kemampuannya yang gesit, serta cakarnya yang tajam. Mereka memiliki tubuh kecil dan ringan dengan kaki yang panjang yang memungkinkannya untuk bergerak dengan cepat.</item>
+        <item>Ankylosaurus berkelompok Ankylosauridae Ankylosaurus adalah dinosaurus herbivora yang hidup pada periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu. Dinosaurus ini dikenal karena memiliki tubuh yang dilindungi oleh pelat-pelat tulang dan senjata defensif di ekornya. Mereka memiliki tubuh besar dengan empat kaki kokoh.</item>
+
+    </string-array>
+
+    <string-array name="dino_habitatt">
+        <item>Tyrannosaurus rex hidup di wilayah yang sekarang merupakan bagian dari Amerika Utara selama periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu. Habitatnya diperkirakan berupa daerah daratan dengan vegetasi yang beragam, termasuk hutan dan dataran rendah.</item>
+        <item>Stegosaurus hidup di wilayah yang sekarang merupakan bagian dari Amerika Utara, terutama di dataran rendah dan daerah yang cukup lembap, seperti hutan-hutan yang subur.</item>
+        <item>Triceratops hidup di wilayah yang sekarang merupakan bagian dari Amerika Utara, terutama di dataran rendah, padang rumput, dan hutan-hutan yang lembap.</item>
+        <item>Brachiosaurus hidup di wilayah yang sekarang merupakan bagian dari Amerika Utara, terutama di dataran rendah, daerah rawa, dan hutan-hutan yang lembap.</item>
+        <item>Parasaurolophus hidup di wilayah yang sekarang merupakan bagian dari Amerika Utara, terutama di dataran rendah, daerah rawa, dan hutan-hutan yang lembap.</item>
+        <item>Triceratops hidup di wilayah yang sekarang merupakan bagian dari Amerika Utara, terutama di dataran rendah, padang rumput, dan hutan-hutan yang lembap.</item>
+        <item>Velociraptor hidup di wilayah yang sekarang merupakan bagian dari Asia, terutama di padang pasir dan dataran terbuka, serta di dekat sungai dan sumber air.</item>
+        <item>Ankylosaurus hidup di wilayah yang sekarang merupakan bagian dari Amerika Utara, terutama di daerah dataran rendah dan hutan-hutan yang lembap.</item>
+    </string-array>
+
+    <string-array name="dino_makanan">
+        <item>Sebagai karnivora, Tyrannosaurus rex memakan berbagai hewan, termasuk dinosaurus herbivora seperti Triceratops dan Hadrosaurus. Beberapa penelitian juga menunjukkan bahwa mereka mungkin juga memakan daging dari dinosaurus lain yang sudah mati.</item>
+        <item>Sebagai dinosaurus herbivora, Stegosaurus memakan berbagai jenis tumbuhan, seperti semak-semak, tanaman paku, dan konifer.</item>
+        <item>Sebagai dinosaurus herbivora, Triceratops memakan berbagai jenis tumbuhan, seperti daun, tunas, dan tanaman rendah.</item>
+        <item>Sebagai dinosaurus herbivora, Brachiosaurus memakan berbagai jenis tumbuhan, termasuk daun-daun tinggi di pohon.</item>
+        <item>Sebagai dinosaurus herbivora, Parasaurolophus memakan berbagai jenis tumbuhan, seperti dedaunan, tunas, dan tanaman rendah.</item>
+        <item>Sebagai dinosaurus herbivora, Triceratops memakan berbagai jenis tumbuhan, seperti daun, tunas, dan tanaman rendah.</item>
+        <item>Sebagai dinosaurus karnivora, Velociraptor memakan berbagai jenis hewan kecil dan reptil, termasuk mamalia kecil dan burung primitif.</item>
+        <item>Sebagai dinosaurus herbivora, Ankylosaurus memakan berbagai jenis tanaman, termasuk dedaunan, tunas, dan tanaman rendah.</item>
+    </string-array>
+
+    <string-array name="dino_panjang">
+        <item>Panjang Tyrannosaurus rex secara keseluruhan dapat mencapai sekitar 12 hingga 13 meter.</item>
+        <item>Panjang Stegosaurus diperkirakan mencapai sekitar 9 meter.</item>
+        <item>Panjang Triceratops diperkirakan mencapai sekitar 7 hingga 9 meter.</item>
+        <item>Panjang Brachiosaurus diperkirakan mencapai sekitar 22 hingga 26 meter.</item>
+        <item>Panjang Parasaurolophus diperkirakan mencapai sekitar 9 hingga 10 meter.</item>
+        <item>Panjang Triceratops diperkirakan mencapai sekitar 7 hingga 9 meter.</item>
+        <item>Panjang Velociraptor diperkirakan mencapai sekitar 1,8 hingga 2 meter.</item>
+        <item>Panjang Ankylosaurus diperkirakan mencapai sekitar 6 hingga 9 meter.</item>
+    </string-array>
+
+    <string-array name="dino_tinggi">
+        <item>Tyrannosaurus rex biasanya memiliki tinggi sekitar 4 hingga 6 meter pada pinggangnya.</item>
+        <item>Tinggi Stegosaurus diperkirakan sekitar 4 meter di punggungnya.</item>
+        <item>Tinggi Triceratops diperkirakan sekitar 2 hingga 3 meter di pundaknya.</item>
+        <item>Tinggi Brachiosaurus diperkirakan sekitar 13 hingga 15 meter di pundaknya.</item>
+        <item>Tinggi Parasaurolophus diperkirakan sekitar 2,5 hingga 3 meter di pundaknya.</item>
+        <item>Tinggi Triceratops diperkirakan sekitar 2 hingga 3 meter di pundaknya.</item>
+        <item>Tinggi Velociraptor diperkirakan sekitar 0,5 hingga 0,6 meter di pundaknya.</item>
+        <item>Tinggi Ankylosaurus diperkirakan sekitar 1,5 hingga 2 meter di pundaknya.</item>
+    </string-array>
+
+    <string-array name="dino_bobot">
+        <item>Berat Tyrannosaurus rex dapat mencapai sekitar 8 hingga 14 ton, tergantung pada individu dan usianya.</item>
+        <item>Berat Stegosaurus diperkirakan mencapai sekitar 2 hingga 5 ton, tergantung pada ukuran individu.</item>
+        <item>Berat Triceratops diperkirakan mencapai sekitar 6 hingga 12 ton, tergantung pada ukuran individu.</item>
+        <item>Berat Brachiosaurus diperkirakan mencapai sekitar 30 hingga 60 ton, tergantung pada ukuran individu.</item>
+        <item>Berat Parasaurolophus diperkirakan mencapai sekitar 2 hingga 4 ton, tergantung pada ukuran individu.</item>
+        <item>Berat Triceratops diperkirakan mencapai sekitar 6 hingga 12 ton, tergantung pada ukuran individu.</item>
+        <item>Berat Velociraptor diperkirakan mencapai sekitar 15 hingga 20 kilogram.</item>
+        <item>Berat Ankylosaurus diperkirakan mencapai sekitar 4 hingga 6 ton.</item>
+    </string-array>
+
+    <string-array name="dino_kelemahan">
+        <item>Meskipun memiliki ukuran yang besar dan kekuatan yang luar biasa, Tyrannosaurus rex memiliki lengan yang sangat pendek yang sering kali dianggap sebagai kelemahan, terutama dalam hal menangkap mangsa kecil atau dalam aktivitas lain di luar berburu besar.
+            Kehadiran gigi-gigi yang besar dan tajam dapat menjadi kelemahan jika terjadi kerusakan atau cedera pada gigi tersebut, karena mereka bergantung pada gigi-gigi ini untuk mencabik mangsa mereka.</item>
+        <item>Meskipun memiliki pertahanan yang kuat di punggungnya, Stegosaurus memiliki otak yang relatif kecil, yang mungkin membuatnya kurang tangkas dalam menghindari serangan pemangsa.
+Struktur tubuh yang besar dan lambat juga bisa menjadi kelemahan ketika berurusan dengan pemangsa yang lebih cepat dan gesit.</item>
+        <item>Meskipun memiliki pertahanan yang kuat dengan tanduk-tanduk besar, Triceratops mungkin rentan terhadap serangan dari predator yang lebih gesit dan cerdik.
+Struktur tubuh yang besar dan lambat juga bisa menjadi kelemahan ketika berurusan dengan predator yang lebih cepat dan lincah.</item>
+        <item>Meskipun memiliki leher yang panjang yang memungkinkannya untuk mencapai makanan yang tinggi, Brachiosaurus mungkin rentan terhadap serangan predator yang cerdik dan gesit, karena kecepatannya yang relatif lambat.
+Ukuran tubuh yang besar juga membuatnya membutuhkan banyak makanan setiap hari, sehingga membuatnya rentan terhadap kelangkaan makanan jika lingkungannya mengalami perubahan yang signifikan.</item>
+        <item>Meskipun memiliki crests yang unik, Parasaurolophus mungkin rentan terhadap serangan predator yang cerdik dan gesit, karena kecepatannya yang relatif lambat.
+Ukuran tubuh yang besar juga membuatnya membutuhkan banyak makanan setiap hari, sehingga membuatnya rentan terhadap kelangkaan makanan jika lingkungannya mengalami perubahan yang signifikan.</item>
+        <item>Meskipun memiliki pertahanan yang kuat dengan tanduk-tanduk besar, Triceratops mungkin rentan terhadap serangan dari predator yang lebih gesit dan cerdik.
+Struktur tubuh yang besar juga bisa menjadi kelemahan ketika berurusan dengan predator yang lebih cepat dan lincah.</item>
+        <item>Meskipun memiliki kecepatan dan kegesitan yang tinggi, Velociraptor mungkin rentan terhadap serangan dari predator yang lebih besar dan lebih kuat.
+Ukuran tubuh yang kecil juga membuatnya sulit untuk memburu mangsa yang lebih besar, sehingga Velociraptor mungkin lebih bergantung pada kerjasama dalam kelompok untuk menangkap mangsa yang lebih besar.</item>
+        <item>Meskipun memiliki perlindungan yang kuat di tubuhnya, Ankylosaurus mungkin rentan terhadap serangan predator yang cerdik dan gesit, karena kecepatannya yang relatif lambat.
+Struktur tubuh yang besar dan lambat juga bisa menjadi kelemahan ketika berurusan dengan predator yang lebih cepat dan lincah.</item>
     </string-array>
 </resources>

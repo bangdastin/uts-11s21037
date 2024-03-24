@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.ifs21037.dinopedia.databinding.ItemRowDinoBinding
 
-class ListDinoAdapter(private val listDino: List<Dino>) :
+class ListDinoAdapter(private val listDino: ArrayList<Dino>) :
     RecyclerView.Adapter<ListDinoAdapter.ListViewHolder>() {
 
     private lateinit var onItemClickCallback: OnItemClickCallback

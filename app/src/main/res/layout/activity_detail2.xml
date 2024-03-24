@@ -14,17 +14,16 @@
 
 
         <ImageView
-
-            android:src="@drawable/dino2"
+            android:src="@drawable/dinosaurus2"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             tools:ignore="ImageContrastCheck"
-            android:id="@+id/ivikon"
+            android:id="@+id/iikon"
             android:layout_width="121dp"
             android:layout_height="121dp"
             android:layout_marginTop="17dp"
-            android:contentDescription="@string/info_dino_icon"/>
+            android:contentDescription="@string/dinoss"/>
 
         <TextView
 
@@ -32,21 +31,21 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/ivikon"
-            android:id="@+id/tvDetailnamasaya"
+            app:layout_constraintTop_toBottomOf="@+id/iikon"
+            android:id="@+id/nama_dino"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/info_dino_name"/>
+            android:text="@string/info_dino_Nama"/>
 
         <TextView
 
-            android:text="@string/info_dino_desc"
+            android:text="@string/info_dino_desc2"
             android:textAlignment="textStart"
             android:textSize="17sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailnamasaya"
-            android:id="@+id/tvdetaildeks"
+            app:layout_constraintTop_toBottomOf="@+id/nama_dino"
+            android:id="@+id/desc"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="17dp"
@@ -54,73 +53,73 @@
             android:layout_marginEnd="17dp"/>
 
         <TextView
-            android:id="@+id/tvJudul1"
+            android:id="@+id/Judul1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvdetaildeks"
+            app:layout_constraintTop_toBottomOf="@+id/desc"
             android:layout_marginStart="17dp"
             android:layout_marginTop="25dp"
-            android:text="@string/info_dino_characteristic"
+            android:text="@string/info_dino_karakteristik2"
             android:textSize="21sp"
             android:textStyle="bold"/>
 
         <TextView
 
-            android:text="@string/info_dino_characteristic"
+            android:text="@string/info_dino_karakteristik2"
             android:textSize="17sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvJudul1"
-            android:id="@+id/tvDetailkarakterr"
+            app:layout_constraintTop_toBottomOf="@+id/Judul1"
+            android:id="@+id/Detailkarakterr"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="17dp"
             android:layout_marginEnd="17dp"/>
 
         <TextView
-            android:id="@+id/tvJudul2"
+            android:id="@+id/Judul2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailkarakterr"
+            app:layout_constraintTop_toBottomOf="@+id/Detailkarakterr"
             android:layout_marginStart="17dp"
             android:layout_marginTop="25dp"
-            android:text="@string/info_dino_habitat"
+            android:text="@string/info_dino_kelompok"
             android:textSize="21sp"
             android:textStyle="bold"/>
 
         <TextView
-            android:id="@+id/tvDetailHabitat"
+            android:id="@+id/DetailHabitat"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="17dp"
             android:layout_marginEnd="17dp"
-            android:text="@string/info_dino_habitat"
+            android:text="@string/info_dino_kelompok"
             android:textSize="17sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvJudul2" />
+            app:layout_constraintTop_toBottomOf="@+id/Judul2" />
 
         <TextView
 
-            android:text="@string/info_dino_process"
+            android:text="@string/info_dino_habitatt"
             android:textSize="21sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailHabitat"
-            android:id="@+id/tvJudul3"
+            app:layout_constraintTop_toBottomOf="@+id/DetailHabitat"
+            android:id="@+id/Judul3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="17dp"
             android:layout_marginTop="25dp"/>
 
         <TextView
-            android:id="@+id/tvDetailProsesss"
+            android:id="@+id/DetailProsesss"
             android:layout_width="0dp"
-            android:text="@string/info_dino_process"
+            android:text="@string/info_dino_habitatt"
             android:textAlignment="textStart"
             android:textSize="17sp"
             app:layout_constraintEnd_toEndOf="parent"
@@ -129,13 +128,13 @@
             android:layout_marginStart="17dp"
             android:layout_marginEnd="17dp"
 
-            app:layout_constraintTop_toBottomOf="@+id/tvJudul3" />
+            app:layout_constraintTop_toBottomOf="@+id/Judul3" />
 
         <TextView
-            android:id="@+id/tvJudul4"
+            android:id="@+id/Judul4"
             android:layout_marginStart="17dp"
             android:layout_marginTop="25dp"
-            android:text="@string/info_dino_perilaku"
+            android:text="@string/info_dino_makanan"
             android:textSize="21sp"
             android:textStyle="bold"
             android:layout_width="wrap_content"
@@ -144,55 +143,131 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailProsesss" />
+            app:layout_constraintTop_toBottomOf="@+id/DetailProsesss" />
 
         <TextView
-            android:id="@+id/tvDetailperilaku"
+            android:id="@+id/Detailperilaku"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="17dp"
             android:layout_marginEnd="17dp"
-            android:text="@string/info_dino_perilaku"
+            android:text="@string/info_dino_makanan"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvJudul4" />
+            app:layout_constraintTop_toBottomOf="@+id/Judul4" />
 
         <TextView
-            android:id="@+id/tvJudul5"
+            android:id="@+id/Judul5"
             android:layout_marginStart="17dp"
             android:layout_marginTop="23dp"
-            android:text="@string/info_dino_klasifikasi"
+            android:text="@string/info_dino_panjang"
             android:textSize="21sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailperilaku" />
+            app:layout_constraintTop_toBottomOf="@+id/Detailperilaku" />
 
         <TextView
             android:layout_height="wrap_content"
             android:layout_marginStart="17dp"
             android:layout_marginEnd="17dp"
-            android:text="@string/info_dino_klasifikasi"
+            android:text="@string/info_dino_panjang"
             app:layout_constraintEnd_toEndOf="parent"
-            android:id="@+id/tvDetailklasifikasi"
+            android:id="@+id/Detailpanjang"
             android:layout_width="0dp"
 
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvJudul5" />
+            app:layout_constraintTop_toBottomOf="@+id/Judul5" />
 
-        <Button
-            android:id="@+id/btn"
+
+
+
+
+        <TextView
+            android:id="@+id/Judul6"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="23dp"
+            android:text="@string/info_dino_tinggi"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+
+            app:layout_constraintTop_toBottomOf="@+id/Detailpanjang" />
+
+
+
+
+        <TextView
+            android:layout_height="wrap_content"
             android:layout_marginStart="17dp"
-            android:layout_marginTop="20dp"
-            android:background="@color/blue"
-            android:text="@string/dino"
-            android:textAlignment="gravity"
-            android:textColor="#212121"
+            android:layout_marginEnd="17dp"
+            android:text="@string/info_dino_tinggi"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:id="@+id/Detailtinggi"
+            android:layout_width="0dp"
+
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tvDetailklasifikasi" />
+            app:layout_constraintTop_toBottomOf="@+id/Judul6" />
+
+
+        <TextView
+            android:id="@+id/Judul7"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="23dp"
+            android:text="@string/info_dino_bobot"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            app:layout_constraintTop_toBottomOf="@+id/Detailtinggi" />
+
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_marginStart="17dp"
+            android:layout_marginEnd="17dp"
+            android:text="@string/info_dino_bobot"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:id="@+id/Detailbobot"
+            android:layout_width="0dp"
+
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Judul7" />
+
+        <TextView
+            android:id="@+id/Judul8"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="23dp"
+            android:text="@string/info_dino_kelemahan"
+            android:textSize="21sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            app:layout_constraintTop_toBottomOf="@+id/Detailbobot" />
+
+
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_marginStart="17dp"
+            android:layout_marginEnd="17dp"
+            android:text="@string/info_dino_kelemahan"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:id="@+id/Detailkelemahan"
+            android:layout_width="0dp"
+
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Judul8" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

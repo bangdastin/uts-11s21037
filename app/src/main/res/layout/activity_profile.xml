@@ -7,24 +7,38 @@
     android:orientation="vertical">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/fotodiri"
         android:layout_width="match_parent"
         android:layout_height="197dp"
-        app:srcCompat="@drawable/famili1" />
+        android:paddingTop="20dp"
+        app:srcCompat="@drawable/me" />
 
     <TextView
-        android:id="@+id/textView11"
+
+        android:id="@+id/nimdiri"
         android:layout_width="match_parent"
-        android:layout_height="37dp"
+        android:layout_height="54dp"
         android:gravity="center"
+        android:paddingTop="25dp"
         android:text="ifs21037" />
 
     <TextView
-        android:id="@+id/textView12"
+        android:id="@+id/teksnama12"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:paddingTop="25dp"
         android:text="Dastin Raynold Sirait"
-        android:textSize="20sp"
+        android:textSize="21sp"
         android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/deskripsi_diri"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingLeft="20dp"
+        android:paddingTop="25dp"
+        android:paddingRight="20dp"
+        android:text="Saya Berkuliah di IT DEL dengan prodi S1 Informatika saya adalah mahasiswa aktif dan sedang belajar pengembangan aplikasi berbasis mobile" />
 </LinearLayout>

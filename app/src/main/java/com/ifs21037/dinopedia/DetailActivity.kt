@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import com.ifs21037.dinopedia.databinding.ActivityDetailBinding
 
@@ -24,12 +25,21 @@ class DetailActivity : AppCompatActivity() {
         } else {
             finish()
         }
+
+        binding.btn.setOnClickListener {
+            val intent = Intent(this@DetailActivity, MainActivity2::class.java)
+            startActivity(intent)
+            finish()
+        }
     }
+
+
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_detail, menu)
         return true
     }
+
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
@@ -49,12 +59,14 @@ class DetailActivity : AppCompatActivity() {
     }
 
     private fun loadData(dino: Dino) {
-        binding.ivDetailIcon.setImageResource(dino.icon)
-        binding.tvDetailName.text = dino.name
-        binding.tvDetailDescription.text = dino.description
-        binding.tvDetailCharacteristic.text = dino.characteristic
+        binding.ivikon.setImageResource(dino.icon)
+        binding.tvDetailnamasaya.text = dino.name
+        binding.tvdetaildeks.text = dino.description
+        binding.tvDetailkarakterr.text = dino.characteristic
         binding.tvDetailHabitat.text = dino.habitat
-        binding.tvDetailProcess.text = dino.process
+        binding.tvDetailProsesss.text = dino.process
+        binding.tvDetailperilaku.text = dino.perilaku
+        binding.tvDetailklasifikasi.text = dino.klasifikasi
 
 
     }
@@ -62,4 +74,7 @@ class DetailActivity : AppCompatActivity() {
     companion object {
         const val EXTRA_DINO = "extra_dino"
     }
+
+
+
 }

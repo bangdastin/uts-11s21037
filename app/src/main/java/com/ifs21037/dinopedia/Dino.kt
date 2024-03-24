@@ -11,5 +11,6 @@ data class Dino(
     var characteristic: String,
     var habitat: String,
     var process: String,
-
+    var perilaku: String,
+    var klasifikasi: String,
 ) : Parcelable

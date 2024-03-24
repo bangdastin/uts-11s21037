@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
             }
             else -> super.onOptionsItemSelected(item)
         }
+
     }
 
     @SuppressLint("Recycle")
@@ -51,12 +52,15 @@ class MainActivity : AppCompatActivity() {
             resources.getStringArray(R.array.dino_habitat)
         val dataProcess =
             resources.getStringArray(R.array.dino_proces)
-
+        val dataperilaku =
+            resources.getStringArray(R.array.dino_perilaku)
+        val dataklasifikasi =
+            resources.getStringArray(R.array.dino_klasifikasi)
         val listDino = ArrayList<Dino>()
         for (i in dataName.indices) {
             val dino = Dino(dataName[i],
                 dataIcon.getResourceId(i, -1), dataDescription[i],
-                dataCharacteristic[i], dataHabitat[i], dataProcess[i])
+                dataCharacteristic[i], dataHabitat[i], dataProcess[i], dataperilaku[i], dataklasifikasi[i])
             listDino.add(dino)
         }
         return listDino
@@ -76,6 +80,7 @@ class MainActivity : AppCompatActivity() {
             ListDinoAdapter.OnItemClickCallback {
             override fun onItemClicked(data: Dino) {
                 showSelectedFruit(data)
+
             }
         })
     }
